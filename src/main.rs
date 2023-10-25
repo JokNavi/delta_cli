@@ -63,7 +63,6 @@ fn main() -> io::Result<()> {
 
 #[cfg(test)]
 mod tests {
-    use std::io::Write;
 
     use super::*;
 
