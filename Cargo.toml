@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 clap = "4.4.6"
-deltas = { path = "../../deltas"}
+deltas = { path = "../deltas"}
 huffman-coding = "0.1.2"
